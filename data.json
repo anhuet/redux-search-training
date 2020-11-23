@@ -1,0 +1,964 @@
+{"products" : [
+   {
+      "name":"Amazon - Fire TV Stick with Alexa Voice Remote - Black",
+      "description":"Enjoy smart access to videos, games and apps with this Amazon Fire TV stick. Its Alexa voice remote lets you deliver hands-free commands when you want to watch television or engage with other applications. With a quad-core processor, 1GB internal memory and 8GB of storage, this portable Amazon Fire TV stick works fast for buffer-free streaming.",
+      "brand":"Amazon",
+      "categories":{
+         "lvl0":"TV Home Theater",
+         "lvl1":"Streaming Media Players"
+      },
+      "type":"Streaming media plyr",
+      "price":39.99,
+      "price_range":"1 - 50",
+      "image":"https://cdn-demo.algolia.com/bestbuy-0118/5477500_sb.jpg",
+      "url":"https://api.bestbuy.com/click/-/5477500/pdp",
+      "free_shipping":false,
+      "rating":4,
+      "popularity":21469,
+      "objectID":"5477500"
+   },
+   {
+      "name":"Google - Chromecast - Black",
+      "description":"Google Chromecast: Enjoy a world of entertainment with Google Chromecast. Just connect to your HDTV's HDMI interface and your home Wi-Fi network to get started. You can stream your favorite apps from your compatible phone, tablet or laptop, plus use your phone as a remote to search, play and pause content.",
+      "brand":"Google",
+      "categories":{
+         "lvl0":"TV Home Theater",
+         "lvl1":"Streaming Media Players"
+      },
+      "type":"Streaming media plyr",
+      "price":35.0,
+      "price_range":"1 - 50",
+      "image":"https://cdn-demo.algolia.com/bestbuy-0118/4397400_sb.jpg",
+      "url":"https://api.bestbuy.com/click/-/4397400/pdp",
+      "free_shipping":false,
+      "rating":4,
+      "popularity":21468,
+      "objectID":"4397400"
+   },
+   {
+      "name":"Dell - Inspiron 15.6\" Touch-Screen Laptop - Intel Core i5 - 6GB Memory - 1TB Hard Drive - Black",
+      "description":"Dell Inspiron Laptop: Get speed and performance from this 15.6-inch Dell Inspiron laptop. Supported by an Intel Core i5-5200U processor and 6GB of DDR3L RAM, this slim touch screen laptop lets you run multiple applications without lag. The 1TB hard drive in this Dell Inspiron laptop lets you store multiple music, video and document files.",
+      "brand":"Dell",
+      "categories":{
+         "lvl0":"Computers Tablets",
+         "lvl1":"Laptops"
+      },
+      "type":"Burst skus",
+      "price":499.99,
+      "price_range":"200 - 500",
+      "image":"https://cdn-demo.algolia.com/bestbuy-0118/5588602_sb.jpg",
+      "url":"https://api.bestbuy.com/click/-/5588602/pdp",
+      "free_shipping":true,
+      "rating":3,
+      "popularity":21467,
+      "objectID":"5588602"
+   },
+   {
+      "name":"Amazon - Echo Dot",
+      "description":"Deliver your favorite playlist anywhere in your home with the Amazon Echo Dot voice-controlled device. Control most electric devices through voice activation, or schedule a ride with Uber and order a pizza. The Amazon Echo Dot voice-controlled device turns any home into a smart home with the Alexa app on a smartphone or tablet.",
+      "brand":"Amazon",
+      "categories":{
+         "lvl0":"Smart Home"
+      },
+      "type":"Voice assistants",
+      "price":49.99,
+      "price_range":"1 - 50",
+      "image":"https://cdn-demo.algolia.com/bestbuy-0118/5578851_sb.jpg",
+      "url":"https://api.bestbuy.com/click/-/5578851/pdp",
+      "free_shipping":true,
+      "rating":5,
+      "popularity":21466,
+      "objectID":"5578851"
+   },
+   {
+      "name":"Apple - MacBook Air® (Latest Model) - 13.3\" Display - Intel Core i5 - 8GB Memory - 128GB Flash Storage - Silver",
+      "description":"MacBook Air features up to 8GB of memory, a fifth-generation Intel Core processor, Thunderbolt 2, great built-in apps, and all-day battery life.1 Its thin, light, and durable enough to take everywhere you go-and powerful enough to do everything once you get there, better.",
+      "brand":"Apple",
+      "categories":{
+         "lvl0":"Computers Tablets",
+         "lvl1":"Laptops"
+         
+      },
+      "type":"Apple",
+      "price":999.99,
+      "price_range":"500 - 2000",
+      "image":"https://cdn-demo.algolia.com/bestbuy-0118/6443034_sb.jpg",
+      "url":"https://api.bestbuy.com/click/-/6443034/pdp",
+      "free_shipping":true,
+      "rating":2,
+      "popularity":21465,
+      "objectID":"6443034"
+   },
+   {
+      "name":"Sharp - 50\" Class (49.5\" Diag.) - LED - 1080p - Smart - HDTV Roku TV - Black",
+      "description":"Only at Best Buy  Sharp LC-50LB481U LED Roku TV: Get a TV that enjoys full Internet connectivity with this Sharp 49.5-inch smart TV. Full HD resolutions give you plenty of detail whether you're streaming content from the Internet using the integrated Roku player or watching via cable. Plenty of contrast and high-quality sound mean this Sharp 49.5-in smart TV delivers outstanding video.",
+      "brand":"Sharp",
+      "categories":{
+         "lvl0":"TV Home Theater",
+         "lvl1":"TVs",
+         "lvl2":"All Flat-Panel TVs"
+      },
+      "type":"45\"-50\"  tv's",
+      "price":429.99,
+      "price_range":"200 - 500",
+      "image":"https://cdn-demo.algolia.com/bestbuy-0118/4863102_sb.jpg",
+      "url":"https://api.bestbuy.com/click/-/4863102/pdp",
+      "free_shipping":false,
+      "rating":4,
+      "popularity":21464,
+      "objectID":"4863102"
+   },
+   {
+      "name":"Google - Google Home - White/Slate fabric",
+      "description":"Simplify your everyday life with the Google Home, a voice-activated speaker powered by the Google Assistant. Use voice commands to enjoy music, get answers from Google and manage everyday tasks. Google Home is compatible with Android and iOS operating systems, and can control compatible smart devices such as Chromecast or Nest.",
+      "brand":"Google",
+      "categories":{
+         "lvl0":"Smart Home"
+      },
+      "type":"Voice assistants",
+      "price":129.0,
+      "price_range":"100 - 200",
+      "image":"https://cdn-demo.algolia.com/bestbuy-0118/5578849_sb.jpg",
+      "url":"https://api.bestbuy.com/click/-/5578849/pdp",
+      "free_shipping":true,
+      "rating":3,
+      "popularity":21463,
+      "objectID":"5578849"
+   },
+   {
+      "name":"Apple - EarPods™ with Remote and Mic - White",
+      "description":"Control media playback, adjust the volume and answer and end calls on your Apple&#174; iPod&#174;, iPhone&#174; or iPad&#174; with these Apple EarPods&#8482; MD827LL/A, which feature an in-line remote and mic for ease of use.",
+      "brand":"Apple",
+      "categories":{
+         "lvl0":"Audio",
+         "lvl1":"Headphones"
+         
+      },
+      "type":"Earbud headphones",
+      "price":29.99,
+      "price_range":"1 - 50",
+      "image":"https://cdn-demo.algolia.com/bestbuy-0118/6848136_sb.jpg",
+      "url":"https://api.bestbuy.com/click/-/6848136/pdp",
+      "free_shipping":true,
+      "rating":2,
+      "popularity":21462,
+      "objectID":"6848136"
+   },
+   {
+      "name":"Philips - hue A19 Smart LED Light Bulb - White Only",
+      "description":"Philips hue A19 Smart LED Light Bulb: Get lighting that's as smart as you are. You can easily dim this light bulb and set timers and alarms using your smartphone or tablet. Plus, LED technology offers lasting illumination while using minimal energy.",
+      "brand":"Philips",
+      "categories":{
+         "lvl0":"Smart Home",
+         "lvl1":"Smart Lighting",
+         "lvl2":"Smart Light Bulbs"
+      },
+      "type":"Smart lighting",
+      "price":14.99,
+      "price_range":"1 - 50",
+      "image":"https://cdn-demo.algolia.com/bestbuy-0118/4374300_sb.jpg",
+      "url":"https://api.bestbuy.com/click/-/4374300/pdp",
+      "free_shipping":false,
+      "rating":5,
+      "popularity":21461,
+      "objectID":"4374300"
+   },
+   {
+      "name":"Nintendo - amiibo Figure (The Legend of Zelda: Breath of the Wild Series Zelda)",
+      "description":"Zelda appears here carrying a Sheikah Slate, an important item in the Legend Zelda&#8482;: Breath of the Wild game. While her fate remains shrouded in mystery, the princess is at the core of Link's adventure in Hyrule.",
+      "brand":"Nintendo",
+      "categories":{
+         "lvl0":"Video Games",
+         "lvl1":"Toys to Life",
+         "lvl2":"Amiibo"
+      },
+      "type":"Toy 2 life character",
+      "price":15.99,
+      "price_range":"1 - 50",
+      "image":"https://cdn-demo.algolia.com/bestbuy-0118/5723538_sb.jpg",
+      "url":"https://api.bestbuy.com/click/-/5723538/pdp",
+      "free_shipping":false,
+      "rating":4,
+      "popularity":21460,
+      "objectID":"5723538"
+   },
+   {
+      "name":"Nintendo - amiibo Figure (The Legend of Zelda: Breath of the Wild Series Link (Archer))",
+      "description":"Link&#8482; is the main character in The Legend of Zelda&#8482; games. A young boy living in Hyrule, Link is often given the task of rescuing Princess Zelda&#8482; and Hyrule from the Gerudo thief Ganondorf. Humble to the end, Link is known not merely as a hero but as a symbol of courage, strength and wisdom as well.",
+      "brand":"Nintendo",
+      "categories":{
+         "lvl0":"Video Games",
+         "lvl1":"Toys to Life",
+         "lvl2":"Amiibo"
+      },
+      "type":"Toy 2 life character",
+      "price":15.99,
+      "price_range":"1 - 50",
+      "image":"https://cdn-demo.algolia.com/bestbuy-0118/5723537_sb.jpg",
+      "url":"https://api.bestbuy.com/click/-/5723537/pdp",
+      "free_shipping":false,
+      "rating":5,
+      "popularity":21459,
+      "objectID":"5723537"
+   },
+   {
+      "name":"Roku - Express Streaming Media Player - Black",
+      "description":"Watch your favorite programs with this Roku Express streaming player. The wireless capability lets you connect to your home network to stream movies and television shows without the need for expensive cable subscriptions, while the included remote lets you control the device from anywhere within range. This Roku Express streaming player turns every TV into a smart TV.",
+      "brand":"Roku",
+      "categories":{
+         "lvl0":"TV Home Theater",
+         "lvl1":"Streaming Media Players"
+      },
+      "type":"Streaming media plyr",
+      "price":29.99,
+      "price_range":"1 - 50",
+      "image":"https://cdn-demo.algolia.com/bestbuy-0118/5513500_sb.jpg",
+      "url":"https://api.bestbuy.com/click/-/5513500/pdp",
+      "free_shipping":true,
+      "rating":4,
+      "popularity":21458,
+      "objectID":"5513500"
+   },
+   {
+      "name":"Nintendo - amiibo Figure (The Legend of Zelda: Breath of the Wild Series Link (Rider))",
+      "description":"Link&#8482; is the main character in The Legend of Zelda&#8482; games. A young boy living in Hyrule, Link is often given the task of rescuing Princess Zelda&#8482; and Hyrule from the Gerudo thief Ganondorf. Humble to the end, Link is known not merely as a hero but as a symbol of courage, strength and wisdom as well.",
+      "brand":"Nintendo",
+      "categories":{
+         "lvl0":"Video Games",
+         "lvl1":"Toys to Life",
+         "lvl2":"Amiibo"
+      },
+      "type":"Toy 2 life character",
+      "price":15.99,
+      "price_range":"1 - 50",
+      "image":"https://cdn-demo.algolia.com/bestbuy-0118/5723529_sb.jpg",
+      "url":"https://api.bestbuy.com/click/-/5723529/pdp",
+      "free_shipping":false,
+      "rating":5,
+      "popularity":21457,
+      "objectID":"5723529"
+   },
+   {
+      "name":"Rocketfish™ - Tilting TV Wall Mount for Most 32\"-70\" TVs - Black",
+      "description":"Mount your flat-panel TV to the wall easily with this tilting mount that features a locking mechanism for secure installation and a fingertip tilt that allows for smooth movement and optimal viewing.",
+      "brand":"Rocketfish™",
+      "categories":{
+         "lvl0":"TV Home Theater",
+         "lvl1":"Streaming Media Players"
+      },
+      "type":"Tv mounts",
+      "price":99.99,
+      "price_range":"50 - 100",
+      "image":"https://cdn-demo.algolia.com/bestbuy-0118/9881868_rb.jpg",
+      "url":"https://api.bestbuy.com/click/-/9881868/pdp",
+      "free_shipping":true,
+      "rating":4,
+      "popularity":21456,
+      "objectID":"9881868"
+   },
+   {
+      "name":"Nintendo - amiibo Figure (The Legend of Zelda: Breath of the Wild Series Guardian)",
+      "description":"Forget everything you know about The Legend of Zelda games. Step into a world of discovery, exploration and adventure in The Legend of Zelda: Breath of the Wild, a boundary-breaking new game in the acclaimed series.",
+      "brand":"Nintendo",
+      "categories":{
+         "lvl0":"Video Games",
+         "lvl1":"Toys to Life",
+         "lvl2":"Amiibo"
+      },
+      "type":"Toy 2 life character",
+      "price":19.99,
+      "price_range":"1 - 50",
+      "image":"https://cdn-demo.algolia.com/bestbuy-0118/5723700_sb.jpg",
+      "url":"https://api.bestbuy.com/click/-/5723700/pdp",
+      "free_shipping":false,
+      "rating":5,
+      "popularity":21455,
+      "objectID":"5723700"
+   },
+   {
+      "name":"LG - Ultra Slim 8x Max. DVD Write Speed External USB DVD±RW/CD-RW Drive - Black",
+      "description":"Create archives of your favorite media with ease using this LG Ultra Slim SP80NB60 external DVD&#177;RW/CD-RW Drive, which offers up to 8x DVD&#177;R write speeds. Jamless play skips damaged parts of the disc to ensure smooth, uninterrupted playback.",
+      "brand":"LG",
+      "categories":{
+         "lvl0":"Computers Tablets",
+         "lvl1":"Optical Drives",
+         "lvl2":"External DVD Drives"
+      },
+      "type":"External",
+      "price":39.99,
+      "price_range":"1 - 50",
+      "image":"https://cdn-demo.algolia.com/bestbuy-0118/5407064_sb.jpg",
+      "url":"https://api.bestbuy.com/click/-/5407064/pdp",
+      "free_shipping":false,
+      "rating":4,
+      "popularity":21454,
+      "objectID":"5407064"
+   },
+   {
+      "name":"Sony - BDP-S3700 - Streaming Wi-Fi Built-In Blu-ray Player - Black",
+      "description":"Enjoy fast, high-definition media streaming with this Sony Blu-ray disk player optimized with built-in Wi-Fi for smooth video performance. Use your mobile device to remotely control the player, and view the convenient side-bar app for program information. Brilliant color and high-quality details add to watching enjoyment with this Sony Blu-ray disk player.",
+      "brand":"Sony",
+      "categories":{
+         "lvl0":"TV Home Theater",
+         "lvl1":"Streaming Media Players"
+      },
+      "type":"Blu-ray",
+      "price":89.99,
+      "price_range":"50 - 100",
+      "image":"https://cdn-demo.algolia.com/bestbuy-0118/4743301_sb.jpg",
+      "url":"https://api.bestbuy.com/click/-/4743301/pdp",
+      "free_shipping":true,
+      "rating":4,
+      "popularity":21453,
+      "objectID":"4743301"
+   },
+   {
+      "name":"Insignia™ - 55\" Class - (54.6\" Diag.) - LED - 1080p - HDTV - Black",
+      "description":"Experience cinema-like viewing from the comfort of your living room with this 55-inch Insignia LED television. It displays Blu-ray and high-definition movies in full 1080p resolution with stunning HD detail. Use the three HDMI inputs to create a home theater experience with this Insignia LED TV and your other audio and video devices.",
+      "brand":"Insignia™",
+      "categories":{
+         "lvl0":"TV Home Theater",
+         "lvl1":"TVs",
+         "lvl2":"All Flat-Panel TVs"
+      },
+      "type":"51\"-60\" tv's",
+      "price":379.99,
+      "price_range":"200 - 500",
+      "image":"https://cdn-demo.algolia.com/bestbuy-0118/4806800_sb.jpg",
+      "url":"https://api.bestbuy.com/click/-/4806800/pdp",
+      "free_shipping":false,
+      "rating":4,
+      "popularity":21452,
+      "objectID":"4806800"
+   },
+   {
+      "name":"HP - 15.6\" Laptop - AMD A6-Series - 4GB Memory - 500GB Hard Drive - Black",
+      "description":"HP Laptop: Experience high-powered computing on the go with this HP notebook. Store your favorite videos or music on the 500GB hard drive, and watch HD movies displayed via its AMD Radeon R4 graphics card. The AMD quad-core A6 processor and 4GB of RAM in this HP notebook let it handle your heaviest multitasking workloads.",
+      "brand":"HP",
+      "categories":{
+         "lvl0":"Computers Tablets",
+         "lvl1":"Laptops"
+      },
+      "type":"Burst skus",
+      "price":259.99,
+      "price_range":"200 - 500",
+      "image":"https://cdn-demo.algolia.com/bestbuy-0118/5606300_sb.jpg",
+      "url":"https://api.bestbuy.com/click/-/5606300/pdp",
+      "free_shipping":true,
+      "rating":4,
+      "popularity":21451,
+      "objectID":"5606300"
+   },
+   {
+      "name":"Nintendo - amiibo Figure (The Legend of Zelda: Breath of the Wild Series Bokoblin)",
+      "description":"These creatures have appeared in many games in the Legend of Zelda series, but never have they been more dangerous and resourceful. This amiibo features a standard red Bokoblin carrying a rudimentary Boko Club, but many nastier varieties lurk in the wilds of Hyrule.",
+      "brand":"Nintendo",
+      "categories":{
+         "lvl0":"Video Games",
+         "lvl1":"Toys to Life",
+         "lvl2":"Amiibo"
+      },
+      "type":"Toy 2 life character",
+      "price":15.99,
+      "price_range":"1 - 50",
+      "image":"https://cdn-demo.algolia.com/bestbuy-0118/5723548_sb.jpg",
+      "url":"https://api.bestbuy.com/click/-/5723548/pdp",
+      "free_shipping":false,
+      "rating":3,
+      "popularity":21450,
+      "objectID":"5723548"
+   },
+   
+   {
+      "name":"Insignia™ - 32\" Class - (31.5\" Diag.) - LED - 720p - HDTV - Black",
+      "description":"Insignia&#8482; NS-32D311NA17 LED HDTV:Enjoy high-quality television viewing with this Insignia 32-inch HDTV. The compact size makes this screen easy to integrate into a variety of rooms, including a kitchen or bedroom, for viewing your favorite programs. Boost your program options by adding a streaming stick or other device (not included) to this Insignia 32-inch HDTV.",
+      "brand":"Insignia™",
+      "categories":{
+         "lvl0":"TV Home Theater",
+         "lvl1":"TVs",
+         "lvl2":"All Flat-Panel TVs"
+      },
+      "type":"Mid 32\" lcd",
+      "price":139.99,
+      "price_range":"100 - 200",
+      "image":"https://cdn-demo.algolia.com/bestbuy-0118/5326401_sb.jpg",
+      "url":"https://api.bestbuy.com/click/-/5326401/pdp",
+      "free_shipping":false,
+      "rating":4,
+      "popularity":21448,
+      "objectID":"5326401"
+   },
+   {
+      "name":"Lenovo - 110-15ISK 15.6\" Laptop - Intel Core i3 - 4GB Memory - 1TB Hard Drive - Black",
+      "description":"Lenovo 110-15ISK Laptop: Keep up with every aspect of your work and home life with this Lenovo Ideapad laptop, featuring a choice of Intel Pentium or Celeron processors for reliable speed. The 15-inch screen on this laptop offers more than enough room for work or streaming video, making this Lenovo Ideapad laptop an ideal choice for business trips or schoolwork.",
+      "brand":"Lenovo",
+      "categories":{
+         "lvl0":"Computers & Tablets",
+         "lvl1":"Laptops"
+      },
+      "type":"Burst skus",
+      "price":329.99,
+      "price_range":"200 - 500",
+      "image":"https://cdn-demo.algolia.com/bestbuy-0118/5496140_sb.jpg",
+      "url":"https://api.bestbuy.com/click/-/5496140/pdp",
+      "free_shipping":true,
+      "rating":3,
+      "popularity":21447,
+      "objectID":"5496140"
+   },
+   {
+      "name":"Amazon - Echo Dot",
+      "description":"Interact with Alexa anywhere in your home with the Amazon Echo Dot voice-controlled device. The compact size is a perfect fit in any room, and the built-in speaker lets you set an alarm or stream music. The Amazon Echo Dot voice-controlled device plugs into your home stereo speakers or connects wirelessly through Bluetooth.",
+      "brand":"Amazon",
+      "categories":{
+         "lvl0":"Smart Home"
+      },
+      "type":"Voice assistants",
+      "price":49.99,
+      "price_range":"1 - 50",
+      "image":"https://cdn-demo.algolia.com/bestbuy-0118/5578864_sb.jpg",
+      "url":"https://api.bestbuy.com/click/-/5578864/pdp",
+      "free_shipping":true,
+      "rating":3,
+      "popularity":21446,
+      "objectID":"5578864"
+   },
+   {
+      "name":"Harman/kardon - Onyx Mini Portable Wireless Speaker - Black",
+      "description":"Enjoy premium sound with this Harman Kardon ONYX MINI. The speaker has a small footprint, so it can be used in almost any space, and a battery life of up to 10 hours lets you listen to favorite tunes all day. This Harman Kardon ONYX MINI has a microphone that can be used for conference calls.",
+      "brand":"Harman/kardon",
+      "categories":{
+         "lvl0":"Audio"
+      },
+      "type":"Wireless speakers",
+      "price":199.99,
+      "price_range":"100 - 200",
+      "image":"https://cdn-demo.algolia.com/bestbuy-0118/5495315_sb.jpg",
+      "url":"https://api.bestbuy.com/click/-/5495315/pdp",
+      "free_shipping":true,
+      "rating":3,
+      "popularity":21445,
+      "objectID":"5495315"
+   },
+   {
+      "name":"Insignia™ - Portable Wireless Speaker - Black",
+      "description":"Share music wirelessly with your friends when you pair this Insignia black Bluetooth speaker with your smart device. Use the unit's built-in speakerphone feature to make and answer calls via your connected phone and stay in touch on the go. Charge the battery inside this Insignia black Bluetooth speaker using its integrated USB port for hours of cord-free listening.",
+      "brand":"Insignia™",
+      "categories":{
+         "lvl0":"Audio"
+      },
+      "type":"Wireless speakers",
+      "price":39.99,
+      "price_range":"1 - 50",
+      "image":"https://cdn-demo.algolia.com/bestbuy-0118/5496202_sb.jpg",
+      "url":"https://api.bestbuy.com/click/-/5496202/pdp",
+      "free_shipping":true,
+      "rating":3,
+      "popularity":21444,
+      "objectID":"5496202"
+   },
+   
+   
+   {
+      "name":"Amazon - Fire TV (2015 Model) - Black",
+      "description":"Amazon Fire TV (2015 Model): With Amazon Fire TV, you can access thousands of movies and TV shows instantly. Find favorites quickly or access weather and sports updates using the Alexa voice search function. Ultra HD support and a dedicated graphics engine deliver stunning clarity for your favorite entertainment.",
+      "brand":"Amazon",
+      "categories":{
+         "lvl0":"TV Home Theater",
+         "lvl1":"Streaming Media Players"
+      },
+      "type":"Streaming media plyr",
+      "price":89.99,
+      "price_range":"50 - 100",
+      "image":"https://cdn-demo.algolia.com/bestbuy-0118/4370400_sb.jpg",
+      "url":"https://api.bestbuy.com/click/-/4370400/pdp",
+      "free_shipping":false,
+      "rating":3,
+      "popularity":21440,
+      "objectID":"4370400"
+   },
+   {
+      "name":"Beats by Dr. Dre - Powerbeats2 Wireless Earbud Headphones - Black/Red",
+      "description":"Beats by Dr. Dre Powerbeats2: These workout headphones are crafted to keep up with your active routine. The no-slip design of the call answer button ensures phone calls won't be missed, and music can be easily cycled through.",
+      "brand":"Beats by Dr. Dre",
+      "categories":{
+         "lvl0":"Audio",
+         "lvl1":"Headphones"
+      },
+      "type":"Wireless in ears",
+      "price":199.99,
+      "price_range":"100 - 200",
+      "image":"https://cdn-demo.algolia.com/bestbuy-0118/5565002_sb.jpg",
+      "url":"https://api.bestbuy.com/click/-/5565002/pdp",
+      "free_shipping":true,
+      "rating":3,
+      "popularity":21437,
+      "objectID":"5565002"
+   },
+   {
+      "name":"Philips - Hue White and Color Ambiance A19 Add-on Smart LED bulb (3rd Gen) - Multicolor",
+      "description":"Set a beautiful mood with this Philips hue white and color ambiance bulb that works with your existing hue system. The soft flattering colors set a tone, and you can sync your lights depending on your activities through the corresponding app. This Philips hue white and color ambiance bulb offers 16 million choices in both warm and cool for versatility.",
+      "brand":"Philips",
+      "categories":{
+         "lvl0":"Smart Home",
+         "lvl1":"Smart Lighting",
+         "lvl2":"Smart Light Bulbs"
+      },
+      "type":"Smart lighting",
+      "price":49.99,
+      "price_range":"1 - 50",
+      "image":"https://cdn-demo.algolia.com/bestbuy-0118/5540401_sb.jpg",
+      "url":"https://api.bestbuy.com/click/-/5540401/pdp",
+      "free_shipping":true,
+      "rating":1,
+      "popularity":21436,
+      "objectID":"5540401"
+   },
+   {
+      "name":"Sony - $20 PlayStation Network Card",
+      "description":"Broaden the content you enjoy on your PlayStation system with this convenient $20 PlayStation Network Card. Use the card to purchase downloadable games, game add-ons, full-length movies, TV shows and other content that you can play or view on your PlayStation 4, PlayStation 3 or PS Vita.",
+      "brand":"Sony",
+      "categories":{
+         "lvl0":"Video Games",
+         "lvl1":"PSP"
+         
+      },
+      "type":"Playstation posa",
+      "price":20.0,
+      "price_range":"1 - 50",
+      "image":"https://cdn-demo.algolia.com/bestbuy-0118/8945804_sb.jpg",
+      "url":"https://api.bestbuy.com/click/-/8945804/pdp",
+      "free_shipping":true,
+      "rating":2,
+      "popularity":21435,
+      "objectID":"8945804"
+   },
+   {
+      "name":"Sharp - 43\" Class (42.5\" Diag.) - LED - 1080p - Smart - HDTV - Roku TV - Black",
+      "description":"Only at Best Buy  This Sharp Roku TV features integrated Roku streaming technology with over 3,000 streaming channels of movies, TV, music and news, delivered through a Full HD 1080p display. This TV supports any USB device and has HDMI ports to support HD picture and digital sound. The Roku mobile app enables voice commands to control this Sharp Roku TV.",
+      "brand":"Sharp",
+      "categories":{
+         "lvl0":"TV  Home Theater",
+         "lvl1":"TVs",
+         "lvl2":"All Flat-Panel TVs"
+      },
+      "type":"Mid 40\"-45\" lcd",
+      "price":299.99,
+      "price_range":"200 - 500",
+      "image":"https://cdn-demo.algolia.com/bestbuy-0118/4863301_sb.jpg",
+      "url":"https://api.bestbuy.com/click/-/4863301/pdp",
+      "free_shipping":false,
+      "rating":5,
+      "popularity":21434,
+      "objectID":"4863301"
+   },
+   {
+      "name":"Sharp - 40\" Class (40\" Diag.) - LED - 1080p - HDTV - Black",
+      "description":"Watch your favorite show on this 40-inch Sharp television. It has composite and USB inputs and three HDMI ports that let you connect multiple devices, and its DTS TruSurround provides clear, natural sound and deep, vibrant bass. This Sharp television has a 60Hz image refresh rate that ensures smoother video.",
+      "brand":"Sharp",
+      "categories":{
+         "lvl0":"TV Home Theater",
+         "lvl1":"TVs",
+         "lvl2":"All Flat-Panel TVs"
+      },
+      "type":"Mid 40\"-45\" lcd",
+      "price":249.99,
+      "price_range":"200 - 500",
+      "image":"https://cdn-demo.algolia.com/bestbuy-0118/5491402_sb.jpg",
+      "url":"https://api.bestbuy.com/click/-/5491402/pdp",
+      "free_shipping":true,
+      "rating":5,
+      "popularity":21433,
+      "objectID":"5491402"
+   },
+   
+   {
+      "name":"Sony - BDPS1700 Streaming Blu-ray Player - Black",
+      "description":"Play DVDs and Blu-rays on this Sony Blu-ray disc player. Enjoy high-definition video with detailed and clear images, thanks to the 1080p maximum resolution, and incredible audio quality lets you hear every drop of sound. The compact Sony Blu-ray disc player fits in most spaces, and it also includes a USB port so that you can play from flash drives.",
+      "brand":"Sony",
+      "categories":{
+         "lvl0":"TV Home Theater",
+         "lvl1":"TVs",
+         "lvl2":"Blu-ray DVD Players"
+      },
+      "type":"Blu-ray",
+      "price":89.99,
+      "price_range":"50 - 100",
+      "image":"https://cdn-demo.algolia.com/bestbuy-0118/4743200_sb.jpg",
+      "url":"https://api.bestbuy.com/click/-/4743200/pdp",
+      "free_shipping":false,
+      "rating":5,
+      "popularity":21431,
+      "objectID":"4743200"
+   },
+   
+   
+   {
+      "name":"Amazon - Fire HD8 - 8\" - Tablet - 16GB - Wi-Fi - Black",
+      "description":"Amazon Fire HD 8 Tablet: With a vivid 8\" touch screen and access to Amazon Underground, this tablet makes it easy to watch movies, play games or catch up on your reading with personalized recommendations. Cloud storage offers simple access to your content from anywhere.",
+      "brand":"Amazon",
+      "categories":{
+         "lvl0":"Computers Tablets",
+         "lvl1":"Tablets"
+        
+      },
+      "type":"Amazon wi-fi",
+      "price":89.99,
+      "price_range":"50 - 100",
+      "image":"https://cdn-demo.algolia.com/bestbuy-0118/5538501_sb.jpg",
+      "url":"https://api.bestbuy.com/click/-/5538501/pdp",
+      "free_shipping":true,
+      "rating":5,
+      "popularity":21428,
+      "objectID":"5538501"
+   },
+   {
+      "name":"Harman/kardon - Onyx Mini Portable Wireless Speaker - Gray",
+      "description":"Enjoy wireless streaming and hands-free phone calls with this versatile Harman Kardon Onyx Mini speaker. Its built-in microphone has noise-cancelling technology that lets you communicate more clearly. The Wireless Dual Sound feature lets you pair two units of this portable Harman Kardon Onyx Mini speaker for an enhanced stereo-quality sound.",
+      "brand":"Harman/kardon",
+      "categories":{
+         "lvl0":"Audio"
+      },
+      "type":"Wireless speakers",
+      "price":199.99,
+      "price_range":"100 - 200",
+      "image":"https://cdn-demo.algolia.com/bestbuy-0118/5495319_sb.jpg",
+      "url":"https://api.bestbuy.com/click/-/5495319/pdp",
+      "free_shipping":true,
+      "rating":5,
+      "popularity":21427,
+      "objectID":"5495319"
+   },
+   {
+      "name":"Samsung - 55\" Class (54.6\" Diag.) - LED - 2160p - Smart - 4K Ultra HD TV - Black",
+      "description":"Enjoy movies, television and music with this Samsung LED smart television. Built-in Wi-Fi lets you connect to your home network to share pictures from devices with the whole family or stream content from apps such as Netflix. This Samsung LED smart television delivers 4k UHD picture for bright colors and crisp imaging.",
+      "brand":"Samsung",
+      "categories":{
+         "lvl0":"TV Home Theater",
+         "lvl1":"TVs",
+         "lvl2":"4K Ultra HD TVs"
+      },
+      "type":"51\"-60\" tv's",
+      "price":799.99,
+      "price_range":"500 - 2000",
+      "image":"https://cdn-demo.algolia.com/bestbuy-0118/5217300_sb.jpg",
+      "url":"https://api.bestbuy.com/click/-/5217300/pdp",
+      "free_shipping":false,
+      "rating":5,
+      "popularity":21426,
+      "objectID":"5217300"
+   },
+   {
+      "name":"Lenovo - 100S-14IBR 14\" Laptop - Intel Celeron - 2GB Memory - 32GB eMMC Flash Memory - Blue",
+      "description":"Lenovo 100S-14IBR Laptop: Take this Lenovo Ideapad laptop with you on the road, and stay on top of work while keeping connected with clients and co-workers. Intel processing offers dependable speed for all of your programming, and Intel HD graphics provide stunning visuals. This Lenovo Ideapad laptop has a 14-inch screen, giving you room for work or streaming videos.",
+      "brand":"Lenovo",
+      "categories":{
+         "lvl0":"Computers Tablets",
+         "lvl1":"Laptops"
+      },
+      "type":"Burst skus",
+      "price":229.99,
+      "price_range":"200 - 500",
+      "image":"https://cdn-demo.algolia.com/bestbuy-0118/5579834_sb.jpg",
+      "url":"https://api.bestbuy.com/click/-/5579834/pdp",
+      "free_shipping":true,
+      "rating":4,
+      "popularity":21424,
+      "objectID":"5579834"
+   },
+   {
+      "name":"HP - 15.6\" Touch-Screen Laptop - Intel Core i3 - 6GB Memory - 1TB Hard Drive - Black",
+      "description":"HP Laptop: Power through your daily work on this HP notebook. Its 6GB of DDR4 RAM and Intel Core i3 processor let you multitask, and the 1TB hard drive holds a vast number of documents, videos and images. Pinch, swipe and zoom directly on the 15.6-inch HD touch screen of this HP notebook.",
+      "brand":"HP",
+      "categories":{
+         "lvl0":"Computers Tablets",
+         "lvl1":"Laptops"
+      },
+      "type":"Burst skus",
+      "price":399.99,
+      "price_range":"200 - 500",
+      "image":"https://cdn-demo.algolia.com/bestbuy-0118/5606100_sb.jpg",
+      "url":"https://api.bestbuy.com/click/-/5606100/pdp",
+      "free_shipping":true,
+      "rating":4,
+      "popularity":21423,
+      "objectID":"5606100"
+   },
+   {
+      "name":"Insignia™ - 24\" Class (23.6\" Diag.) - LED - 720p - HDTV - Black",
+      "description":"Upgrade your home entertainment system with this 24-inch Insignia LED TV. It provides 720p resolution to support crisp, vivid images, and a 60Hz refresh rate for consistent response. This Insignia LED TV's DTS sound technology ensures crystal clear audio and impressive bass resonance, and it's energy-efficient to save you money.",
+      "brand":"Insignia™",
+      "categories":{
+         "lvl0":"TV Home Theater",
+         "lvl1":"TVs",
+         "lvl2":"All Flat-Panel TVs"
+      },
+      "type":"Small lcd",
+      "price":129.99,
+      "price_range":"100 - 200",
+      "image":"https://cdn-demo.algolia.com/bestbuy-0118/5333701_sb.jpg",
+      "url":"https://api.bestbuy.com/click/-/5333701/pdp",
+      "free_shipping":true,
+      "rating":4,
+      "popularity":21422,
+      "objectID":"5333701"
+   }
+],
+"types": [
+   {
+     "id": 1,
+     "title": "TV Home Theater",
+     "allType" : [
+        {
+           "id": 100,
+           "type": "Streaming media plyr"
+        },
+        {
+            "id": 101,
+            "type":"51\"-60\" tv's"
+        },
+        {
+           "id": 102,
+           "type":"Tv mounts"
+        },
+        {
+           "id": 103,
+           "type": "Blu-ray"
+        },
+        {
+           "id": 104,
+           "type":"Mid 32\" lcd"
+        }
+     ],
+     "brand": [
+        {
+           "id" : 1000,
+           "type": "Amazon"
+        },
+        {
+           "id": 1001,
+           "type": "Google"
+        },
+        {
+           "id": 1002,
+           "type": "Roku"
+        },
+        {
+           "id": 1003,
+           "type": "Sharp"
+
+        },
+        {
+           "id": 1004,
+           "type": "Sony"
+        },
+        {
+           "id": 1005,
+           "type": "Rocketfish"
+        }
+     ],
+     "categories": [
+       {
+         "id": 11,
+         "type": "Streaming Media Players",
+         "category" : []
+      },
+       {
+         "id": 12,
+         "type": "TVs",
+         "category" : [
+           {
+             "id": 121,
+             "type" : "All Flat-Panel TVs"
+           },
+           {
+             "id" : 122,
+             "type" : "Blu-ray DVD Players"
+           },
+           {
+             "id" : 123,
+             "type" : "4K Ultra HD TVs"
+           }
+           
+         ]
+       }
+      ]
+   },
+   {
+      "id" : 2,
+      "title" : "Computers Tablets",
+      "allType": [
+         {
+            "id": 200,
+            "type": "Burst skus"
+         },
+         {
+            "id": 201,
+            "type": "Apple"
+         },
+         {
+            "id": 202,
+            "type": "External"
+         },
+         {
+            "id": 203,
+            "type": "Amazon wi-fi"
+         }
+      ],
+      "brand" : [
+         {
+            "id": 2000,
+            "type": "Dell"
+         },
+         {
+            "id": 2001,
+            "type": "Apple"
+         },
+         {
+            "id": 2002,
+            "type": "LG"
+         },
+         {
+            "id": 2003,
+            "type": "HP"
+         },
+         {
+            "id": 2004,
+            "type": "Lenovo"
+         },
+         {
+            "id": 2005,
+            "type": "Amazon"
+         }
+      ],
+      "categories" : [
+         {
+            "id" : 21,
+            "type": "Laptops",
+            "category" : []
+         },
+         {
+            "id" : 22,
+            "type" : "Optical Drives",
+            "category": [
+               {
+                  "id" : 221,
+                  "type" : "External DVD Drives"
+               }
+            ]
+         }
+
+      ]
+   },
+   {
+      "id" : 3,
+      "title": "Audio",
+      "allType": [
+         {
+            "id" : 300,
+            "type":"Earbud headphones"
+         },
+         {
+            "id": 301,
+            "type": "Wireless speakers"
+         },
+         {
+            "id": 302,
+            "type": "Wireless in ears"
+         }
+      ],
+      "brand":  [
+         {
+            "id":3000,
+            "type": "Apple"
+         },
+         {
+            "id":3001,
+            "type": "Harman/kardon"
+         },
+         {
+            "id":3002,
+            "type": "Insignia"
+         },
+         {
+            "id":3003,
+            "type": "Beats by Dr. Dre"
+         }
+      ],
+      "categories" : [
+         {
+            "id" : 31,
+            "type" :"Headphones",
+            "category" :[]
+
+         }
+
+      ]
+   },
+  
+   {
+      "id": 5,
+      "title": "Video Games",
+      "allType":  [
+         {
+            "id": 500,
+            "type": "Toy 2 life character"
+         },
+         {
+            "id": 501,
+            "type":"Playstation posa"
+         }
+      ],
+      "brand": [
+         {
+            "id": 5000,
+            "type":"Nintendo"
+         },
+         {
+            "id": 5001,
+            "type":"Sony"
+         }
+      ],
+      "categories": [
+        {
+          "id": 51,
+          "type": "Toys to Life",
+          "category" : [
+             {
+                "id": 511,
+                "type": "Amiibo"
+             }
+            
+             
+           ]
+          
+          
+        }
+        
+       ]
+    }
+ ],
+ "prices" : [
+    {
+       "id" : 1,
+       "price_range" :"1 - 50"
+    },
+    {
+      "id" : 2,
+      "price_range" : "50 - 100"
+   },
+   {
+      "id" : 3,
+      "price_range" : "100 - 200"
+   },
+   {
+      "id" : 4,
+      "price_range" :"200 - 500"
+   },
+   {
+      "id" : 5,
+      "price_range" : "500 - 2000"
+   }
+    
+ ]
+}
